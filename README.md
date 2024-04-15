@@ -10,7 +10,7 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository: `https://github.com/humphreyotieno1/bird_app.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Set up the database: $PLACEHOLDER$
+3. Set up the database: `gunicorn app:app`
 4. Start the Flask development server: $PLACEHOLDER$
 
 ## Usage
